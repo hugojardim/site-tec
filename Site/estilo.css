@@ -4,7 +4,7 @@
 	font-family: "Inter", Serif;
 }
 body{
-	margin: 0;
+	margin: 50px;
 }
 p{
 	font-size: 15px;
@@ -137,7 +137,6 @@ nav a:hover{
 #trending-topics{
 	display: flex;
 	justify-content: space-between;
-	overflow: clip;
 	height: 8rem;
 	margin-top: 4rem;
 }
@@ -169,17 +168,3 @@ nav a:hover{
 	margin-bottom: 20px;
 	color: hsl(236, 13%, 42%);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
