@@ -1,0 +1,22 @@
+@media screen and (max-width: 1510px) {
+	#container-central{
+		height: 750px;
+	}
+	#ler-mais {
+		height: 120%;
+	}
+}
+@media screen and (max-width: 1300px) {
+	#container-central {
+		height: 800px;
+	}
+	#ler-mais {
+		height: 135%;
+	}
+	#geral{
+		margin-left: 200px;
+	}
+	nav{
+		margin-left: 300px;
+	}
+}
