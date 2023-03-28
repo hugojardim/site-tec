@@ -21,6 +21,11 @@
 	}
 }
 @media only screen and (max-width: 1000px) {
+	body{
+		margin-inline: 25px;
+		margin-left: 25px;
+		margin-right: 25px;
+	}
 	#geral {
 		margin-inline: 0;
 		width: 100%;

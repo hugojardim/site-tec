@@ -5,6 +5,7 @@
 }
 body{
 	margin: 50px;
+	margin-inline: 150px;
 }
 p{
 	font-size: 15px;
